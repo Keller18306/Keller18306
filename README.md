@@ -10,7 +10,7 @@ Telegram: https://t.me/keller18306
 
 # English
 👋 Hi! I'm Keller. My real name is Alexey. I am 15 years old.
-I like nekogirls (fuck useful info).
+I like nekogirls (fucking useful info).
 
 I write in TypeScript, JavaScript, PHP, Python.
 
