@@ -1,5 +1,5 @@
 # Русский
-👋 Приветик. Я Келлер. Моё реальное имя Алексей. Мне 19 лет.
+👋 Приветик. Я Келлер. Моё реальное имя Алексей. Мне 20 лет.
 
 Пишу на TypeScript, JavaScript, PHP, Python, Lua, Rust, Delphi.
 
@@ -8,7 +8,7 @@
 Telegram: https://t.me/keller18306
 
 # English
-👋 Hi! I'm Keller. My real name is Alexey. I am 19 years old.
+👋 Hi! I'm Keller. My real name is Alexey. I am 20 years old.
 
 I write in TypeScript, JavaScript, PHP, Python, Lua, Rust, Delphi.
 
